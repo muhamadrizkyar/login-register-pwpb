@@ -21,6 +21,11 @@
     <hr>
     <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur, quos repudiandae. 
     Ducimus, dicta facere et praesentium tempore molestias dolorem ullam.</p>
+    <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur, quos repudiandae. 
+    Ducimus, dicta facere et praesentium tempore molestias dolorem ullam.</p>
+    <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur, quos repudiandae. 
+    Ducimus, dicta facere et praesentium tempore molestias dolorem ullam.</p>
+    <p><a href="logout.php">Logout</a></p>
     </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
